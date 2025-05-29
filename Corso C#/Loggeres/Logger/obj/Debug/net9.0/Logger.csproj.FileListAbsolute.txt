@@ -1,0 +1,14 @@
+C:\Users\dansu\Desktop\Corso C#\Logger\bin\Debug\net9.0\Logger.exe
+C:\Users\dansu\Desktop\Corso C#\Logger\bin\Debug\net9.0\Logger.deps.json
+C:\Users\dansu\Desktop\Corso C#\Logger\bin\Debug\net9.0\Logger.runtimeconfig.json
+C:\Users\dansu\Desktop\Corso C#\Logger\bin\Debug\net9.0\Logger.dll
+C:\Users\dansu\Desktop\Corso C#\Logger\bin\Debug\net9.0\Logger.pdb
+C:\Users\dansu\Desktop\Corso C#\Logger\obj\Debug\net9.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansu\Desktop\Corso C#\Logger\obj\Debug\net9.0\Logger.AssemblyInfoInputs.cache
+C:\Users\dansu\Desktop\Corso C#\Logger\obj\Debug\net9.0\Logger.AssemblyInfo.cs
+C:\Users\dansu\Desktop\Corso C#\Logger\obj\Debug\net9.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\dansu\Desktop\Corso C#\Logger\obj\Debug\net9.0\Logger.dll
+C:\Users\dansu\Desktop\Corso C#\Logger\obj\Debug\net9.0\refint\Logger.dll
+C:\Users\dansu\Desktop\Corso C#\Logger\obj\Debug\net9.0\Logger.pdb
+C:\Users\dansu\Desktop\Corso C#\Logger\obj\Debug\net9.0\Logger.genruntimeconfig.cache
+C:\Users\dansu\Desktop\Corso C#\Logger\obj\Debug\net9.0\ref\Logger.dll
