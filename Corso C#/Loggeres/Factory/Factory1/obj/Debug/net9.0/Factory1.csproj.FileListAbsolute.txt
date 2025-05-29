@@ -1,0 +1,14 @@
+C:\Users\dansu\Desktop\Corso C#\Factory1\bin\Debug\net9.0\Factory1.exe
+C:\Users\dansu\Desktop\Corso C#\Factory1\bin\Debug\net9.0\Factory1.deps.json
+C:\Users\dansu\Desktop\Corso C#\Factory1\bin\Debug\net9.0\Factory1.runtimeconfig.json
+C:\Users\dansu\Desktop\Corso C#\Factory1\bin\Debug\net9.0\Factory1.dll
+C:\Users\dansu\Desktop\Corso C#\Factory1\bin\Debug\net9.0\Factory1.pdb
+C:\Users\dansu\Desktop\Corso C#\Factory1\obj\Debug\net9.0\Factory1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansu\Desktop\Corso C#\Factory1\obj\Debug\net9.0\Factory1.AssemblyInfoInputs.cache
+C:\Users\dansu\Desktop\Corso C#\Factory1\obj\Debug\net9.0\Factory1.AssemblyInfo.cs
+C:\Users\dansu\Desktop\Corso C#\Factory1\obj\Debug\net9.0\Factory1.csproj.CoreCompileInputs.cache
+C:\Users\dansu\Desktop\Corso C#\Factory1\obj\Debug\net9.0\Factory1.dll
+C:\Users\dansu\Desktop\Corso C#\Factory1\obj\Debug\net9.0\refint\Factory1.dll
+C:\Users\dansu\Desktop\Corso C#\Factory1\obj\Debug\net9.0\Factory1.pdb
+C:\Users\dansu\Desktop\Corso C#\Factory1\obj\Debug\net9.0\Factory1.genruntimeconfig.cache
+C:\Users\dansu\Desktop\Corso C#\Factory1\obj\Debug\net9.0\ref\Factory1.dll
