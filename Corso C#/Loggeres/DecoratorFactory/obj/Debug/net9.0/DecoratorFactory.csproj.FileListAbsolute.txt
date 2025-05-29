@@ -1,0 +1,14 @@
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\obj\Debug\net9.0\DecoratorFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\obj\Debug\net9.0\DecoratorFactory.AssemblyInfoInputs.cache
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\obj\Debug\net9.0\DecoratorFactory.AssemblyInfo.cs
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\obj\Debug\net9.0\DecoratorFactory.csproj.CoreCompileInputs.cache
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\bin\Debug\net9.0\DecoratorFactory.exe
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\bin\Debug\net9.0\DecoratorFactory.deps.json
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\bin\Debug\net9.0\DecoratorFactory.runtimeconfig.json
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\bin\Debug\net9.0\DecoratorFactory.dll
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\bin\Debug\net9.0\DecoratorFactory.pdb
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\obj\Debug\net9.0\DecoratorFactory.dll
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\obj\Debug\net9.0\refint\DecoratorFactory.dll
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\obj\Debug\net9.0\DecoratorFactory.pdb
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\obj\Debug\net9.0\DecoratorFactory.genruntimeconfig.cache
+C:\Users\dansu\Desktop\Corso C#\DecoratorFactory\obj\Debug\net9.0\ref\DecoratorFactory.dll
