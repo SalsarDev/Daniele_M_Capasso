@@ -1,0 +1,14 @@
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\bin\Debug\net9.0\ObserverFactory.exe
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\bin\Debug\net9.0\ObserverFactory.deps.json
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\bin\Debug\net9.0\ObserverFactory.runtimeconfig.json
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\bin\Debug\net9.0\ObserverFactory.dll
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\bin\Debug\net9.0\ObserverFactory.pdb
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\obj\Debug\net9.0\ObserverFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\obj\Debug\net9.0\ObserverFactory.AssemblyInfoInputs.cache
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\obj\Debug\net9.0\ObserverFactory.AssemblyInfo.cs
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\obj\Debug\net9.0\ObserverFactory.csproj.CoreCompileInputs.cache
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\obj\Debug\net9.0\ObserverFactory.dll
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\obj\Debug\net9.0\refint\ObserverFactory.dll
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\obj\Debug\net9.0\ObserverFactory.pdb
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\obj\Debug\net9.0\ObserverFactory.genruntimeconfig.cache
+C:\Users\dansu\Desktop\Corso C#\ObserverFactory\obj\Debug\net9.0\ref\ObserverFactory.dll
