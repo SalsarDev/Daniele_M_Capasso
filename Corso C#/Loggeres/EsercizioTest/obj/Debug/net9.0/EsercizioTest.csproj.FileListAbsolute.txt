@@ -1,0 +1,14 @@
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\obj\Debug\net9.0\EsercizioTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\obj\Debug\net9.0\EsercizioTest.AssemblyInfoInputs.cache
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\obj\Debug\net9.0\EsercizioTest.AssemblyInfo.cs
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\obj\Debug\net9.0\EsercizioTest.csproj.CoreCompileInputs.cache
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\bin\Debug\net9.0\EsercizioTest.exe
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\bin\Debug\net9.0\EsercizioTest.deps.json
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\bin\Debug\net9.0\EsercizioTest.runtimeconfig.json
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\bin\Debug\net9.0\EsercizioTest.dll
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\bin\Debug\net9.0\EsercizioTest.pdb
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\obj\Debug\net9.0\EsercizioTest.dll
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\obj\Debug\net9.0\refint\EsercizioTest.dll
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\obj\Debug\net9.0\EsercizioTest.pdb
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\obj\Debug\net9.0\EsercizioTest.genruntimeconfig.cache
+C:\Users\dansu\Desktop\Corso C#\EsercizioTest\obj\Debug\net9.0\ref\EsercizioTest.dll
