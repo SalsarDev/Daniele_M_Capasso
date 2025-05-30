@@ -1,0 +1,38 @@
+Gestione Biblioteca 
+sistema che consente di cercare, aggiungere aggiornare i libri nel catagolo,rimuovere.
+
+Libreria virtuale Singleton, Observer
+
+ILibro
+Libri Factory Avventura Azione Giallo
+
+INSIEME ALLA FINE
+Main 
+Menu scelta cercare, aggiungere, rimuovere e aggiornare(modificare date di uscita, autore etc).
+
+TUTTO UNA PERSONA
+Utente utenti. Observer
+Notifica (questo libro è disponibile)
+
+IObserver, ILibreria
+
+
+ILibreria interfaccia
+Attach detatch Notify
+Libreria:ILibraria
+
+
+IObserver interfaccia
+Utente:IObserver
+Update()
+
+Factory CreazioneLibri
+static che ritorn Libri
+
+Libri abstract classe con campi Titolo annoUscita autore
+Costruttore che prende in input direttamente
+Metodo Descrizione del libro
+
+ConcreteBook:Libri 
+const string genere
+costruttori che ereditano dal base e aggiungono il campo genere
