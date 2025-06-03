@@ -1,0 +1,14 @@
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\bin\Debug\net9.0\IExportFormatter.exe
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\bin\Debug\net9.0\IExportFormatter.deps.json
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\bin\Debug\net9.0\IExportFormatter.runtimeconfig.json
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\bin\Debug\net9.0\IExportFormatter.dll
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\bin\Debug\net9.0\IExportFormatter.pdb
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\obj\Debug\net9.0\IExportFormatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\obj\Debug\net9.0\IExportFormatter.AssemblyInfoInputs.cache
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\obj\Debug\net9.0\IExportFormatter.AssemblyInfo.cs
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\obj\Debug\net9.0\IExportFormatter.csproj.CoreCompileInputs.cache
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\obj\Debug\net9.0\IExportFormatter.dll
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\obj\Debug\net9.0\refint\IExportFormatter.dll
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\obj\Debug\net9.0\IExportFormatter.pdb
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\obj\Debug\net9.0\IExportFormatter.genruntimeconfig.cache
+C:\Users\dansu\Desktop\Corso C#\IExportFormatter\obj\Debug\net9.0\ref\IExportFormatter.dll
